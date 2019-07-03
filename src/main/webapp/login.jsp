@@ -17,6 +17,7 @@
         <s:password name="userpass" label="Password"></s:password>  
         <s:submit value="login"></s:submit>  
       </s:form>      
+         <a  href="forget.jsp">forget</a>
        </div>
 </body>
 </html> 

@@ -11,7 +11,7 @@
     padding: 7px;
     margin-left: 35%;
     margin-top: 13%;">
-		<h1 style="text-align: center;">Login</h1>
+		<h1 style="text-align: center;">Forget Password</h1>
       <s:form action="forgetprocess">  
         <s:textfield name="username" label="Name"></s:textfield>  
         <s:password name="password" label="Password"></s:password> 

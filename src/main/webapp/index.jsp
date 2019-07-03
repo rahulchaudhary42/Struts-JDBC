@@ -24,7 +24,7 @@
         <s:submit value="register"></s:submit>   
       </s:form> 
       <a  href="login.jsp">Login</a>
-            <a  href="forget.jsp">forget</a>
+         
       
        </div>
      </div>
